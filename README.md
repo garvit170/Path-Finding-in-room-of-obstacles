@@ -9,18 +9,18 @@ Just build the main file in your PC irrespective of the OS. I have used preproce
 
 ### 1. Homescreen
 
-![alt text](screenshots/Screenshot1.png )
+![Screenshot](screenshots/Screenshot1.png )
 
 ### 2. Floormap
 
-![alt text](screenshots/floormap.png )
+![Screenshot](screenshots/floormap.png )
 
 ### 3. Working
 
-![alt text](screenshots/Working.png )
+![Screenshot](screenshots/Working.png )
 
-![alt text](screenshots/Working2.png)
+![Screenshot](screenshots/Working2.png)
 
-![alt text](screenshots/Working3.png)
+![Screenshot](screenshots/Working3.png)
 
-![alt text](screenshots/Working4.png)
+![Screenshot](screenshots/Working4.png)
