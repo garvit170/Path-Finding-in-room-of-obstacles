@@ -13,14 +13,14 @@ Just build the main file in your PC irrespective of the OS. I have used preproce
 
 ### 2. Floormap
 
-![Screenshot](screenshots/floormap.png )
+![Screenshot](Screenshots/floormap.png)
 
 ### 3. Working
 
-![Screenshot](screenshots/Working.png )
+![Screenshot](Screenshots/Working.png)
 
-![Screenshot](screenshots/Working2.png)
+![Screenshot](Screenshots/Working2.png)
 
-![Screenshot](screenshots/Working3.png)
+![Screenshot](Screenshots/Working3.png)
 
-![Screenshot](screenshots/Working4.png)
+![Screenshot](Screenshots/Working4.png)
