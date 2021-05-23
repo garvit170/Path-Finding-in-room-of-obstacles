@@ -9,7 +9,7 @@ Just build the main file in your PC irrespective of the OS. I have used preproce
 
 ### 1. Homescreen
 
-![Screenshot](screenshots/Screenshot1.png )
+![Screenshot](Screenshots/Screenshot1.png)
 
 ### 2. Floormap
 
